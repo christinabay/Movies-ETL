@@ -1,0 +1,5 @@
+*config.py
+*movies_metadata.csv
+*wikipedia-movies.json
+*.DS_Store
+*ratings.csv
